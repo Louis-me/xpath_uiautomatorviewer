@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="images" kind="src" path="src/main/java"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/android.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.commands_3.6.100.v20140528-1422.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jface_3.10.2.v20141021-1035.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar"/>
+	<classpathentry kind="lib" path="lib/ddmlib.jar"/>
+	<classpathentry kind="lib" path="lib/com.google.guava_15.0.0.v201403281430.jar"/>
+	<classpathentry kind="lib" path="lib/common.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
